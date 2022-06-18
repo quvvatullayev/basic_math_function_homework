@@ -8,4 +8,4 @@ from cmath import sqrt
 def main(a):
     return sqrt(a)
 
-print(main())
+print(main(4))
