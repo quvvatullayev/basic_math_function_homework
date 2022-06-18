@@ -3,4 +3,8 @@
 # Return the modulus of a and b.
 
 def main(a,b):
-    return abs(a), abs(b)
+    a =abs(a)
+    b = abs(b)
+    return a, b
+
+print(main(7,8))
