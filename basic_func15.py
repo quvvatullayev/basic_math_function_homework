@@ -7,4 +7,4 @@ def main(a,b):
     b = abs(b)
     return a,b
 
-print(main(7,8))
+print(main(-7,-8))
