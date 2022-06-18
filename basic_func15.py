@@ -5,4 +5,5 @@
 def main(a,b):
     return abs(a), abs(b)
 
-print(main(-7, -8))
+modil1 =  main(-7,8)
+print(modil1)
