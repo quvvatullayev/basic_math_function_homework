@@ -3,10 +3,10 @@
 # Assign the value pi to the variable "a" and return.
 
 
-import math
+from math import pi
 
 
 def main(a):
     return a
 
-print(main(math.pi))
+print(main(pi))
