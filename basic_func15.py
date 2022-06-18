@@ -5,6 +5,6 @@
 def main(a,b):
     a = abs(a)
     b = abs(b)
-    return a, b
+    return a,b
 
 print(main(7,8))
