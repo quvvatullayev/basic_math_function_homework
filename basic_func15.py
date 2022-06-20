@@ -2,7 +2,7 @@
 # Create function arguments a and b.
 # Return the modulus of a and b.
 
-def main(a,b):
+def main(a, b):
    
     return abs(a % b)
 
