@@ -4,6 +4,6 @@
 
 def main(a,b):
    
-    return abs(a),abs(b)zzz
+    return abs(a),abs(b)
 
 print(main(-7,-8))
